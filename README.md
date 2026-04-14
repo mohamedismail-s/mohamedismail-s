@@ -1,5 +1,21 @@
-- 👋 Hi, I’m @mohamedismail-s
-- 👀 I’m interested in ...
+# 👋 Hi,This is Mohamed Ismail S
+
+A M.Sc Computer Science Graduate, from **Sadakathullah Appa College**.
+I am a full-stack developer,
+## I am currently doing a research on 
+
+## 👀 I’m interested in 
+* Learning about networking,git basics and version control. 
+* working on various things 
+
+## 😊 I'm specialized in 
+* **HTML**
+* **JAVASCRIPT**
+* **PYTHON**
+
+## Contact:
+* email:[mohamedismails2004@gmail.com](mailto:mohamedismails2004@gmail.com)
+* linkedin:[]()
 - 🌱 I’m currently learning ...
 - I'm a college student in Sadakathullah Appa College
 - I'm a B.Sc.Information Technology student
