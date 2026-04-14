@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @mohamedismail-s
+# 👋 Hi,This is Mohamed Ismail S
+
+A M.Sc Computer Science Graduate, from **Sadakathullah Appa College **.
+I am currently doing a research on **()**
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - I'm a college student in Sadakathullah Appa College
