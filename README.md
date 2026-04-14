@@ -3,6 +3,7 @@
 A M.Sc Computer Science Graduate, from **Sadakathullah Appa College**.
 I am a full-stack developer,
 ## I am currently doing a research on 
+* AUTISM PREDICTION USING MACHINE LEARNING: A COMPARATIVE ANALYSIS OF CLASSIFICATION ALGORITHMS
 
 ## 👀 I’m interested in 
 * Learning about networking,git basics and version control. 
@@ -15,12 +16,7 @@ I am a full-stack developer,
 
 ## Contact:
 * email:[mohamedismails2004@gmail.com](mailto:mohamedismails2004@gmail.com)
-* linkedin:[]()
-- 🌱 I’m currently learning ...
-- I'm a college student in Sadakathullah Appa College
-- I'm a B.Sc.Information Technology student
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+* linkedin:[mohamed-ismail](www.linkedin.com/in/mohamed-ismail-4904a2278)
 
 <!---
 mohamedismail-s/mohamedismail-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
