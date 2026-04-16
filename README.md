@@ -16,7 +16,7 @@ I am a full-stack developer,
 
 ## Contact:
 * email:[mohamedismails2004@gmail.com](mailto:mohamedismails2004@gmail.com)
-* linkedin:[mohamed-ismail](www.linkedin.com/in/mohamed-ismail-4904a2278)
+* linkedin:[mohamed-ismail](href:www.linkedin.com/in/mohamed-ismail-4904a2278)
 
 <!---
 mohamedismail-s/mohamedismail-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
